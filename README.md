@@ -1,0 +1,2 @@
+# scala-compute
+ScalaCompute plugin
